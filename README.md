@@ -1,7 +1,7 @@
-# Year 7 Week 5 - Scratch coin gate
+# Scratch from the beginning
 
-Clear numbered instructions, Scratch block diagrams and test tables.
+Year 7 Week 5: learning intentions, sprites, blocks, input, variables, comparisons, if/else and AND. Optional OR, NOT and paper search/sort tasks.
 
-[Open the worksheet](https://ntsomnii-1856.github.io/scratch-year7-week5/)
+[Open the guide](https://ntsomnii-1856.github.io/scratch-year7-week5/)
 
-The PDF is available to download and print. GitHub Pages serves the main branch.
+Includes an accessible HTML guide and a printable PDF.
